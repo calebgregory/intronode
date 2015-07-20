@@ -1,0 +1,7 @@
+intronode
+v1.0.0
+
+usage:
+
+--help              how you got here
+--name={name}       input name

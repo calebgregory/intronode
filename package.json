@@ -1,0 +1,27 @@
+{
+  "name": "intronode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calebgregory/intronode.git"
+  },
+  "author": "Caleb Gregory <calebgregory@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/calebgregory/intronode/issues"
+  },
+  "homepage": "https://github.com/calebgregory/intronode#readme",
+  "devDependencies": {
+    "yargs": "^3.15.0"
+  },
+  "dependencies": {
+    "csv": "^0.4.5",
+    "csvtojson": "^0.4.1",
+    "prompt": "^0.2.14"
+  }
+}
